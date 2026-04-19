@@ -1,8 +1,7 @@
 📊 K-Means From Scratch
-
 This project implements the K-Means clustering algorithm from scratch.
-📌 Description
 
+📌 Description
 K-Means is an unsupervised learning algorithm that groups data into K clusters based on similarity.
 Each cluster is represented by its centroid (mean point).
 
