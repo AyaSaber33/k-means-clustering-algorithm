@@ -7,7 +7,7 @@ K-Means is an unsupervised learning algorithm that groups data into K clusters b
 Each cluster is represented by its centroid (mean point).
 
 ⚙️ Algorithm Steps
-Initialize K centroids randomly
-Assign each point to the nearest centroid
-Recalculate centroids (mean of points)
-Repeat until convergence
+1-Initialize K centroids randomly
+2-Assign each point to the nearest centroid
+3-Recalculate centroids (mean of points)
+4-Repeat until convergence
